@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/harshitha-portfolio/static/css/main.2b9d967a.css",
-    "main.js": "/harshitha-portfolio/static/js/main.58feafa8.js",
+    "main.js": "/harshitha-portfolio/static/js/main.301553df.js",
     "static/js/787.e3835ec5.chunk.js": "/harshitha-portfolio/static/js/787.e3835ec5.chunk.js",
     "static/media/galaxy.jpg": "/harshitha-portfolio/static/media/galaxy.b3fa41a4ac02f4d9be15.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/harshitha-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -14,11 +14,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/harshitha-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/harshitha-portfolio/index.html",
     "main.2b9d967a.css.map": "/harshitha-portfolio/static/css/main.2b9d967a.css.map",
-    "main.58feafa8.js.map": "/harshitha-portfolio/static/js/main.58feafa8.js.map",
+    "main.301553df.js.map": "/harshitha-portfolio/static/js/main.301553df.js.map",
     "787.e3835ec5.chunk.js.map": "/harshitha-portfolio/static/js/787.e3835ec5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b9d967a.css",
-    "static/js/main.58feafa8.js"
+    "static/js/main.301553df.js"
   ]
 }
