@@ -13,7 +13,7 @@ function App() {
   return(
     
     <div className='App'>
-    <BrowserRouter basename='/harshithaUdupi'>
+    <BrowserRouter basename='/harshitha-portfolio'>
                    <Routes>
                       <Route exact path='/' index element={<Home/>}/>
                       <Route exact path='/contact' element={<Contact/>}/>
