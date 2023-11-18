@@ -17,7 +17,6 @@ function App() {
                    <Routes>
                       <Route exact path='/' index element={<Home/>}/>
                       <Route exact path='/contact' element={<Contact/>}/>
-                      {/* <Route path='/myinterests' element={<Interests/>}/> */}
                    </Routes>
     </BrowserRouter>
     </div>
