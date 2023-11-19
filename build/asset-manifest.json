@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/harshitha-portfolio/static/css/main.2b9d967a.css",
+    "main.js": "/harshitha-portfolio/static/js/main.0985e1c8.js",
+    "static/js/787.e3835ec5.chunk.js": "/harshitha-portfolio/static/js/787.e3835ec5.chunk.js",
+    "static/media/galaxy.jpg": "/harshitha-portfolio/static/media/galaxy.b3fa41a4ac02f4d9be15.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/harshitha-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/harsh7.JPG": "/harshitha-portfolio/static/media/harsh7.bc900c1a1badee03faf0.JPG",
+    "static/media/fontawesome-webfont.eot": "/harshitha-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/harshitha-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bootstrap-icons.woff?": "/harshitha-portfolio/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/harshitha-portfolio/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/harshitha-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/harshitha-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/harshitha-portfolio/index.html",
+    "main.2b9d967a.css.map": "/harshitha-portfolio/static/css/main.2b9d967a.css.map",
+    "main.0985e1c8.js.map": "/harshitha-portfolio/static/js/main.0985e1c8.js.map",
+    "787.e3835ec5.chunk.js.map": "/harshitha-portfolio/static/js/787.e3835ec5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9d967a.css",
+    "static/js/main.0985e1c8.js"
+  ]
+}
