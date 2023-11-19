@@ -159,7 +159,7 @@ export default function Contact ()
                  placement="bottom"
                  delay={{ show: 250, hide: 400 }}
                  overlay={mailTooltip}>
-                <a href='mailto:udupi.harsh@gmail.com'>
+                <a href='mailto:udupi.harshitha@gmail.com'>
                   <i class="bi bi-envelope-fill"style={mailStyle}></i>
                   {/* <img src={mail} alt='Mail'></img> */}
                   </a>
@@ -185,7 +185,7 @@ export default function Contact ()
                  placement="bottom"
                  delay={{ show: 250, hide: 400 }}
                  overlay={discordTooltip}>
-                <a href='https://discord.com/channels/@me/922692526123671602'>
+                <a href='https://discord.com/channels/@me/919571587680854016'>
                   <i class="bi bi-discord" style={discordStyle}></i>
                   {/* <img src={discord} alt='discord'></img> */}
                   </a>
@@ -198,7 +198,7 @@ export default function Contact ()
                  placement="bottom"
                  delay={{ show: 250, hide: 400 }}
                  overlay={gitTooltip}>
-                <a href='https://github.com/harshitha0502-AFK'>
+                <a href='https://github.com/harshithaudupi'>
                 <i class="bi bi-github" style={gitStyle}></i>
                 {/* <img src={git} alt='github'></img> */}
                   </a>
